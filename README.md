@@ -1,5 +1,5 @@
 # Flask-Music-app
-    A music management system where in users can upload songs,play,create private playlists etc.
+    A music management system where in users can upload songs,play,create private playlists all in one user session
 ### Prerequisites
     Python 3.0,flask module
     mysql
